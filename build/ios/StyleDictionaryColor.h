@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Dec 2021 18:06:29 GMT
+// Generated on Wed, 09 Mar 2022 19:28:52 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -16,6 +16,7 @@ ColorColorsSingleBlue,
 ColorColorsRefBlue,
 ColorColorsSpecialCharacters,
 ColorColorsSpecialCharactersNderung,
+ColorInvalidEmpty,
 ColorLightBackground,
 ColorDarkBackground
 };
